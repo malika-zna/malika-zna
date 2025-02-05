@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malika</h1>
 <h3 align="center">A beginner programmer</h3>
 
-- 🌱 I’m currently learning **java and c++**
+- 🌱 I’m currently learning **java, HTML, css, and javaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
