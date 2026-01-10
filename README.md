@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malika</h1>
-<h3 align="center">A beginner front-end programmer</h3>
+<!-- <h3 align="center">A beginner front-end programmer</h3> -->
 
 - 🌱 I’m currently learning **React**
 - 🔭 The last project that I made [Forecast Weather](https://forecast-pi-seven.vercel.app/)
