@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A beginner front-end programmer</h3> -->
 
 - 🌱 I’m currently learning **React**
-- 🔭 The last project that I made [Forecast Weather](https://forecast-pi-seven.vercel.app/)
+- 🔭 The last project that I made : [Forecast Weather](https://forecast-pi-seven.vercel.app/), [Simple Gallery Web](https://gallery-sannext.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
